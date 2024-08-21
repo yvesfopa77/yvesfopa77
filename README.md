@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yvesfopa99
 - 👀 I’m interested in state of the art web technolgoies
-- 🌱 I’m currently learning machine learning and blockchain
+- 🌱 I’m currently working on machine learning and blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
